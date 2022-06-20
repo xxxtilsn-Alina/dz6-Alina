@@ -1,0 +1,21 @@
+.card {
+    width: 600px;
+    height: 340px;
+    background-image: url(R.png);
+    background-size: cover;
+    border-radius: 38px;
+    color: white;
+    font-family: 'Comfortaa', cursive;
+    padding-top: 117px;
+    box-sizing: border-box;
+}
+
+.h1 {
+    text-align: center;
+    margin: 0;
+}
+
+.h2 {
+    text-align: center;
+    margin: 0;
+}
